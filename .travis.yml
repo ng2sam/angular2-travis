@@ -19,7 +19,7 @@ before_install:
  - sudo dpkg -i google-chrome*.deb
 
 script:
- - ng test
+ - ng test --single-run
  # - ng serve
  #- ng e2e
 
