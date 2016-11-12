@@ -1,4 +1,4 @@
-https://travis-ci.org/ng2sam/angular2-travis.svg?branch=master
+[![Build Status](https://travis-ci.org/ng2sam/angular2-travis.svg?branch=master)](https://travis-ci.org/ng2sam/angular2-travis)
 
 # Angular2Travis
 
